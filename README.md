@@ -1,6 +1,8 @@
 # loan_default_model
 Loan Default Prediction – Model Development
+
 Overview
+
 This project continues the previous Milestone 1 work, where a raw loan dataset was cleaned, validated, and prepared for analysis. The objective of this milestone is to develop, evaluate, and then select predictive models that best classify potential loan defaults at LAPO Microfinance Bank.
 Using the cleaned dataset, loan_default_cleaned.csv, we will build baseline and advanced models, subsequently evaluate their performance and choose the best model for risk scoring and credit decisions.
 
